@@ -1,0 +1,7 @@
+server:
+  yahoo_weather_url: https://weather.yahoo.co.jp/weather/
+  database:
+    host: localhost
+    port: 5432
+    dbname: shop
+    password: password
